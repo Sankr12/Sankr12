@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sankr12
+- 👋 Hi, I’m Sandeep.
 - 👀 I’m interested in... Development, Deployment and Analytics.
 - 🌱 I’m currently learning... C, Python, Full-Sack, Django
 - ✊️ I'm curious to learn... Data Science and Multi-Clouds in future.
